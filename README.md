@@ -1,3 +1,3 @@
 # cv
-my latex code of curriculum viate
-Try to compile at sharelatex.com
+My latex code of curriculum viate
+Try compiling at sharelatex.com
